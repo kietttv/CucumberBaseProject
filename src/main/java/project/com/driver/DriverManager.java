@@ -12,9 +12,6 @@ public class DriverManager {
     }
 
     public static WebDriver getDriver() {
-//        if (driver.get() == null) {
-//            setDriver(new ChromeDriver());
-//        }
         return driver.get();
     }
 
@@ -28,11 +25,4 @@ public class DriverManager {
             driver.remove();
         }
     }
-
-//    public static void a(String a){
-//        if(a == null){
-//            a = "Nó null r";
-//        }
-//        System.out.println(a);
-//    }
 }

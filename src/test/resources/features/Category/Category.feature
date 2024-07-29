@@ -25,3 +25,13 @@ Feature: Manage Category
       | "Test category" | ""     | "1"             | ""   | ""     | ""   | ""                         | "Test category meta description" | ""               | "https://cms.anhtester.com/admin/categories/create" |
       | "Test category" | ""     | "1"             | ""   | ""     | ""   | "Test category meta title" | ""                               | ""               | "https://cms.anhtester.com/admin/categories/create" |
       | "Test category" | ""     | "1"             | ""   | ""     | ""   | "Test category meta title" | "Test category meta description" | ""               | "https://cms.anhtester.com/admin/categories"        |
+
+  Scenario Outline: Update the Category existing
+    Given user has access to the Category page
+    When user search a category existing <category>
+    And user edit the category information
+    And click the Save button
+    Then the message <message> displays
+    Examples:
+      | category        | message                                  |
+      | "Test Category" | "Category has been updated successfully" |

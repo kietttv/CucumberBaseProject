@@ -18,4 +18,15 @@ public class LoginCMSPage {
     public void clickLoginButton(){
         WebUI.clickElement(loginButton, 10);
     }
+
+    public void loginAdminRole(){
+        WebUI.openURL("https://cms.anhtester.com/login");
+        userEnterEmailAndPassword("admin@example.com", "123456");
+        clickLoginButton();
+    }
+
+    public void loginUserRole(){
+        userEnterEmailAndPassword("user@example.com", "123456");
+        clickLoginButton();
+    }
 }

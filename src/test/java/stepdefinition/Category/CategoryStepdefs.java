@@ -8,21 +8,29 @@ import org.openqa.selenium.By;
 import org.testng.Assert;
 import project.com.common.BaseTest;
 import project.com.driver.DriverManager;
+import project.com.hooks.TestContext;
 import project.com.keywords.WebUI;
-import project.com.pages.CategoryCreatePage;
-import project.com.pages.CategoryPage;
-import project.com.pages.CommonPage;
-import project.com.pages.LoginCMSPage;
+import project.com.pages.*;
 
 public class CategoryStepdefs {
-    CommonPage commonPage = new CommonPage();
-    CategoryPage categoryPage = new CategoryPage();
-    CategoryCreatePage categoryCreatePage = new CategoryCreatePage();
-    @Given("user loged in the CMS system")
-    public void userLogedInTheCMSSystem() {
-//        BaseTest.createDriver("chrome");
-        commonPage.login();
+    TestContext testContext;
+    LoginCMSPage loginCMSPage;
+    CommonPage commonPage;
+    CategoryPage categoryPage;
+    CategoryCreatePage categoryCreatePage;
+    CategoryEditPage categoryEditPage;
+
+    public CategoryStepdefs(TestContext testContext) {
+        this.testContext = testContext;
+        commonPage = testContext.getCommonPage();
+        loginCMSPage = testContext.getLoginCMSPage();
     }
+
+    //    @Given("user loged in the CMS system")
+//    public void userLogedInTheCMSSystem() {
+////        BaseTest.createDriver("chrome");
+//        commonPage.login();
+//    }
 
     @Given("user has access to the Category page")
     public void userHasAccessToTheCategoryPage() {
@@ -81,16 +89,38 @@ public class CategoryStepdefs {
         categoryCreatePage.clickSaveBtn();
     }
 
-    @Then("the {string} message displays")
-    public void theMessageDisplays(String message) {
-        try {
-            String url = DriverManager.getDriver().getCurrentUrl();
-            Assert.assertEquals(url, message);
-        }catch (Exception e){
-            System.out.println(e.getMessage());
-        }
-//        finally {
-//            BaseTest.closeDriver();
+//    @Then("the {string} message displays")
+//    public void theMessageDisplays(String message) {
+//        try {
+//            String url = DriverManager.getDriver().getCurrentUrl();
+//            Assert.assertEquals(url, message);
+//        }catch (Exception e){
+//            System.out.println(e.getMessage());
 //        }
+////        finally {
+////            BaseTest.closeDriver();
+////        }
+//    }
+
+
+    @When("user search a category existing {string}")
+    public void userSearchACategoryExisting(String searchValue) {
+        categoryPage.searchCategory(searchValue);
     }
+
+    @And("user edit the category information")
+    public void userEditTheCategoryInformation() {
+        categoryEditPage.setName(" edited");
+        categoryEditPage.setOrderingNumber("");
+        categoryEditPage.setMetaTitle("");
+        categoryEditPage.setMetaDescription("");
+    }
+
+//    @And("click the Save button")
+//    public void clickTheSaveButton() {
+//    }
+
+//    @Then("the message {string} displays")
+//    public void theMessageDisplays(String arg0) {
+//    }
 }
