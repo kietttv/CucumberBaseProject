@@ -1867,3 +1867,298 @@
 [INFO] 30-07-2024 11:54:32 [TestNG-PoolService-4] [LogUtils] - Add new category
 [INFO] 30-07-2024 11:54:32 [TestNG-PoolService-4] [LogUtils] - Add new category
 [INFO] 30-07-2024 11:54:33 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 14:41:13 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:41:17 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (d8640e25efa4f9183464e72a2f72254d)
+[INFO] 30-07-2024 14:41:18 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 14:41:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:41:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:41:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:41:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:41:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:41:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:41:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:45:14 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:45:16 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (f425cb52801c710dab6980a8a7d97eb7)
+[INFO] 30-07-2024 14:45:17 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 14:45:19 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:45:21 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:45:21 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:45:21 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:45:21 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:45:21 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:45:21 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:46:14 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:46:15 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (56771cb5db7d3b00373852a916e7ac06)
+[INFO] 30-07-2024 14:46:16 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 14:46:18 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:46:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:46:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:46:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:46:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:46:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:46:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:47:42 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:47:43 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (a9bf0718c49b6be6948494ac957ff363)
+[INFO] 30-07-2024 14:47:44 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 14:47:45 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:47:52 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:47:52 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:47:52 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:47:52 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:47:52 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 14:47:52 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:13:48 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:13:50 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (110b280d6422a422023fa8621fa1a4e5)
+[INFO] 30-07-2024 15:13:51 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 15:13:53 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:13:54 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:13:57 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:13:57 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:14:00 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:14:04 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:14:08 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:14:08 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:27:43 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:27:45 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (69ec160e070270c5d5808c8c7591446d)
+[INFO] 30-07-2024 15:27:46 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 15:27:48 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:27:49 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:27:52 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:27:52 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:27:55 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:27:58 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:28:02 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:28:02 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 15:28:02 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:43:12 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:43:14 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b315b3c35048d6181e00d77f103c823f)
+[INFO] 30-07-2024 15:43:16 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 15:43:19 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:43:21 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:43:24 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:43:24 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:43:27 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:43:30 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:44:16 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:44:18 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b014b5379ab6d8bf1135a2233110ec54)
+[INFO] 30-07-2024 15:44:19 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 15:44:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:44:22 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:44:25 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:44:25 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:44:28 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:44:32 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:44:36 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:44:36 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 15:44:36 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:16 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:17 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (589603bbcdd065098a144d374f0dde48)
+[INFO] 30-07-2024 15:47:18 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 15:47:20 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:24 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:27 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:27 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:31 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:34 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:38 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:39 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 15:47:40 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:47:42 [TestNG-PoolService-1] [LogUtils] - Get text: Kiet Test Brand
+[INFO] 30-07-2024 15:57:30 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:57:32 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (764ac553852c6571a3541371fb8a0f57)
+[INFO] 30-07-2024 15:57:33 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 15:57:34 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:57:35 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:57:38 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:57:38 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:57:42 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:57:45 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:57:53 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 15:57:53 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 15:57:53 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:05:08 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:05:10 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (a0fa8e926834560c77193f6114582c45)
+[INFO] 30-07-2024 16:05:11 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:05:13 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:05:15 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:05:15 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:05:15 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:05:15 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:05:15 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:05:16 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:05:16 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 16:05:16 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:06:06 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:06:08 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (71116fd85545507aa922a5d9e15d236f)
+[INFO] 30-07-2024 16:06:09 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:06:11 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:06:13 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:06:13 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:06:13 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:06:13 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:06:13 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:06:14 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:06:14 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 16:06:14 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:08:08 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:08:11 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (e1552a1044b0b12308b7bb021cf406e9)
+[INFO] 30-07-2024 16:08:12 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:08:17 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:08:18 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:08:18 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:08:18 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:08:18 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:08:19 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:08:19 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:08:20 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 16:09:25 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:09:26 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (803eee309f238019ca52e51354fec71f)
+[INFO] 30-07-2024 16:09:27 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:09:28 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:09:29 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:09:29 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:09:29 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:09:30 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:09:30 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:09:31 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:09:31 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 16:11:06 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:11:07 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b626ca8ac629f6a51381ecdc3097070d)
+[INFO] 30-07-2024 16:11:08 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:11:10 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:11:11 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:11:11 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:11:11 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:11:11 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:11:12 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:11:12 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:11:13 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 16:11:13 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:12:57 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:12:58 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (e21133c828d2fc487d7dd4bd46a8666d)
+[INFO] 30-07-2024 16:12:59 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:13:01 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:13:02 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:13:03 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:13:03 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:13:03 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:13:03 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:13:04 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:13:04 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 16:13:04 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:38:15 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:38:17 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (ab9ed6a4e0d8b8900ed06c03fd3e2870)
+[INFO] 30-07-2024 16:38:18 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:38:20 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:38:22 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:39:25 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:39:27 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (d60e3d21f79a7d75297c42954899523c)
+[INFO] 30-07-2024 16:39:28 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:39:29 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:39:31 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:41:03 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:41:04 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (2ed233f39f8a66dc14e0eae6cd153f4b)
+[INFO] 30-07-2024 16:41:05 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:41:07 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:41:09 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:41:38 [TestNG-PoolService-2] [LogUtils] - Edit an existing brand
+[INFO] 30-07-2024 16:41:38 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:41:38 [TestNG-PoolService-3] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:41:40 [TestNG-PoolService-3] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (5ea06aaaf6b2a55143ca51647f2cb5af)
+[INFO] 30-07-2024 16:41:40 [TestNG-PoolService-2] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (107aa0042954b783ab4421d66795aaa1)
+[INFO] 30-07-2024 16:41:40 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (659c54244be717c7847cd3fe070f7790)
+[INFO] 30-07-2024 16:41:41 [TestNG-PoolService-2] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:41:41 [TestNG-PoolService-3] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:41:41 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:41:43 [TestNG-PoolService-2] [LogUtils] - Edit an existing brand
+[INFO] 30-07-2024 16:41:43 [TestNG-PoolService-3] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:41:43 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:41:44 [TestNG-PoolService-2] [LogUtils] - Edit an existing brand
+[INFO] 30-07-2024 16:41:45 [TestNG-PoolService-3] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:41:45 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:41:45 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:41:45 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:41:45 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:41:45 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:41:46 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:41:46 [TestNG-PoolService-1] [LogUtils] - Get text: Brand has been inserted successfully
+[INFO] 30-07-2024 16:41:46 [TestNG-PoolService-1] [LogUtils] - Add a new brand
+[INFO] 30-07-2024 16:41:50 [TestNG-PoolService-2] [LogUtils] - Edit an existing brand
+[INFO] 30-07-2024 16:41:50 [TestNG-PoolService-2] [LogUtils] - Edit an existing brand
+[INFO] 30-07-2024 16:41:50 [TestNG-PoolService-2] [LogUtils] - Edit an existing brand
+[INFO] 30-07-2024 16:41:50 [TestNG-PoolService-2] [LogUtils] - Edit an existing brand
+[INFO] 30-07-2024 16:41:50 [TestNG-PoolService-3] [LogUtils] - Delete a brand
+[ERROR] 30-07-2024 16:42:01 [TestNG-PoolService-2] [LogUtils] - Timeout waiting for the element Visible. By.xpath: /html/body/div[3]/span
+[INFO] 30-07-2024 16:45:13 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:45:16 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (f2158c45bb23f4f3beacb15389eef2c3)
+[INFO] 30-07-2024 16:45:17 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:45:18 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:45:20 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:45:26 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:50:37 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:39 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (e5e54310579c574106a52b2f43b96360)
+[INFO] 30-07-2024 16:50:40 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:50:43 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:45 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:46 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:47 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (cab8650e882e32b2ec2640b349ed4518)
+[INFO] 30-07-2024 16:50:48 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:50:49 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:51 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:53 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:50:53 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 16:51:02 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:51:04 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (3544d9774fb7ac5c9dfd043088b1c835)
+[INFO] 30-07-2024 16:51:04 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:51:06 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:51:11 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:51:17 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:52:25 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:52:26 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (9eac9849d6a1a9ad18edd1d199616097)
+[INFO] 30-07-2024 16:52:27 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:52:30 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:52:31 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:52:37 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:55:17 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:55:19 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (aa325c5357e4c9532227c59ae79b748e)
+[INFO] 30-07-2024 16:55:20 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:55:23 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:55:25 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:55:30 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:56:00 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:56:02 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b54a5d2f0a74a01ccdb5cc95bd782230)
+[INFO] 30-07-2024 16:56:02 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 16:56:04 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:56:06 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 16:56:12 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 17:01:39 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 17:01:41 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (80ecbdb7e65fa13d1b5c7b9e4e9a8df4)
+[INFO] 30-07-2024 17:01:42 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 17:01:43 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 17:01:44 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 17:01:50 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 17:03:18 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 17:03:20 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (7d4899b8c91ce28e00a4d5c2f14215c7)
+[INFO] 30-07-2024 17:03:21 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 17:03:22 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 17:03:24 [main] [LogUtils] - Delete a brand
+[INFO] 30-07-2024 17:03:30 [main] [LogUtils] - Delete a brand

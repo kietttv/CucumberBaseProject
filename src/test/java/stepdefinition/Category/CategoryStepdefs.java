@@ -7,12 +7,11 @@ import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
-import project.com.common.BaseTest;
 import project.com.driver.DriverManager;
 import project.com.hooks.TestContext;
 import project.com.keywords.WebUI;
-import project.com.pages.CategoryCreatePage;
-import project.com.pages.CategoryPage;
+import project.com.pages.Category.CategoryCreatePage;
+import project.com.pages.Category.CategoryPage;
 import project.com.pages.CommonPage;
 import project.com.pages.LoginCMSPage;
 

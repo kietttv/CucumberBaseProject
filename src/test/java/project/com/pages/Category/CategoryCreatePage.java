@@ -1,4 +1,4 @@
-package project.com.pages;
+package project.com.pages.Category;
 
 import org.openqa.selenium.By;
 import project.com.keywords.WebUI;

@@ -1,23 +1,22 @@
 package project.com.hooks;
 
-import org.apache.xmlbeans.impl.xb.xsdschema.Public;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ThreadGuard;
 import project.com.driver.DriverFactory;
 import project.com.driver.DriverManager;
-import project.com.pages.CategoryCreatePage;
-import project.com.pages.CategoryPage;
+import project.com.pages.BrandPage;
+import project.com.pages.Category.CategoryCreatePage;
+import project.com.pages.Category.CategoryPage;
 import project.com.pages.CommonPage;
 import project.com.pages.LoginCMSPage;
 import project.com.utils.LogUtils;
-
-import static project.com.driver.DriverManager.getDriver;
 
 public class TestContext {
     private CommonPage commonPage;
     private LoginCMSPage loginCMSPage;
     private CategoryPage categoryPage;
     private CategoryCreatePage categoryCreatePage;
+    private BrandPage brandPage;
 
     public TestContext() {
         ThreadGuard.protect(new DriverFactory().createDriver("chrome"));
@@ -50,6 +49,13 @@ public class TestContext {
             categoryCreatePage = new CategoryCreatePage();
         }
         return categoryCreatePage;
+    }
+
+    public BrandPage getBrandPage() {
+        if (brandPage == null){
+            brandPage = new BrandPage();
+        }
+        return brandPage;
     }
 
     public WebDriver getDriver(){

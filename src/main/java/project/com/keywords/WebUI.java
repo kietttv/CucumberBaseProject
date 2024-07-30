@@ -55,6 +55,13 @@ public class WebUI {
         return DriverManager.getDriver().findElements(by);
     }
 
+    public static void verifyElementVisible(By by){
+        waitForElementVisible(by, 10);
+        System.out.println("Verify " + by + "is displayed");
+        WebElement webElement = DriverManager.getDriver().findElement(by);
+        Assert.assertTrue(webElement.isDisplayed(), "Element is not visible");
+    }
+
     @Step("Verify Equals: {0} and {1}")
     public static void verifyEquals(Object actual, Object expected) {
         waitForPageLoaded();
