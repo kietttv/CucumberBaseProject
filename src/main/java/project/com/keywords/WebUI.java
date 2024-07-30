@@ -149,12 +149,12 @@ public class WebUI {
         waitForElementVisible(by);
         sleep(STEP_TIME);
         getWebElement(by).sendKeys(value, key);
-        LogUtils.info("Set text: " + value + " on element " + by);
-        ExtentTestManager.logMessage(Status.PASS, "Set text: " + value + " on element " + by);
+//        LogUtils.info("Set text: " + value + " on element " + by);
+//        ExtentTestManager.logMessage(Status.PASS, "Set text: " + value + " on element " + by);
 
-        if (PropertiesHelpers.getValue("SCREENSHOT_STEP").equals("yes")) {
-            CaptureHelpers.takeScreenshot("setText_" + SystemHelpers.makeSlug(by.toString()));
-        }
+//        if (PropertiesHelpers.getValue("SCREENSHOT_STEP").equals("yes")) {
+//            CaptureHelpers.takeScreenshot("setText_" + SystemHelpers.makeSlug(by.toString()));
+//        }
     }
 
     @Step("Get text of element {0}")

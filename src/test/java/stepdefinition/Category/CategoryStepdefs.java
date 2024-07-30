@@ -5,34 +5,43 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import project.com.common.BaseTest;
 import project.com.driver.DriverManager;
+import project.com.hooks.TestContext;
 import project.com.keywords.WebUI;
 import project.com.pages.CategoryCreatePage;
 import project.com.pages.CategoryPage;
 import project.com.pages.CommonPage;
 import project.com.pages.LoginCMSPage;
 
+import static java.lang.Thread.sleep;
+
 public class CategoryStepdefs {
-    CommonPage commonPage = new CommonPage();
-    CategoryPage categoryPage = new CategoryPage();
-    CategoryCreatePage categoryCreatePage = new CategoryCreatePage();
-    @Given("user loged in the CMS system")
-    public void userLogedInTheCMSSystem() {
-//        BaseTest.createDriver("chrome");
-        commonPage.login();
+    TestContext testContext;
+    CommonPage commonPage;
+    CategoryPage categoryPage;
+    CategoryCreatePage categoryCreatePage;
+    LoginCMSPage loginCMSPage;
+
+    public CategoryStepdefs(TestContext testContext) {
+        this.testContext = testContext;
+        commonPage = testContext.getCommonPage();
+        loginCMSPage = testContext.getLoginCMSPage();
+        categoryPage = testContext.getCategoryPage();
+        categoryCreatePage = testContext.getCategoryCreatePage();
     }
 
     @Given("user has access to the Category page")
     public void userHasAccessToTheCategoryPage() {
         commonPage.clickMenuProduct();
         commonPage.openCategoryMenu();
-        categoryPage.clickAddNewCategoryBtn();
     }
 
     @When("user has finished entering category name {string} information")
     public void userHasFinishedEnteringCategoryNameInformation(String nameStr) {
+        categoryPage.clickAddNewCategoryBtn();
         categoryCreatePage.setName(nameStr);
     }
 
@@ -76,21 +85,31 @@ public class CategoryStepdefs {
         categoryCreatePage.setFilteringAttributes(filteringAttributesValue);
     }
 
+    @When("user search a category existing {string}")
+    public void  userSearchACategoryExisting(String categoryName){
+       categoryPage.search(categoryName);
+       WebUI.waitForPageLoaded();
+    }
+
+    @And("user edit the category information")
+    public void userEditTheCategoryInformation(){
+        categoryPage.clickUpdateBtn();
+        categoryCreatePage.setName(" edited");
+    }
+
     @And("click the save button")
     public void clickTheSaveButton() {
         categoryCreatePage.clickSaveBtn();
     }
 
-    @Then("the {string} message displays")
-    public void theMessageDisplays(String message) {
+    @Then("the message {} displays")
+    public void theMessageDisplays(String expectedMessage) {
         try {
-            String url = DriverManager.getDriver().getCurrentUrl();
-            Assert.assertEquals(url, message);
+            WebElement messageAlert = DriverManager.getDriver().findElement(By.xpath("/html/body/div[2]/span"));
+            Assert.assertTrue(messageAlert.isDisplayed());
+            Assert.assertEquals(messageAlert.getText(), expectedMessage);
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
-//        finally {
-//            BaseTest.closeDriver();
-//        }
     }
 }

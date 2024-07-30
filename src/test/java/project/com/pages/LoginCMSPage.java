@@ -1,6 +1,7 @@
 package project.com.pages;
 
 import org.openqa.selenium.By;
+import project.com.helpers.PropertiesHelpers;
 import project.com.keywords.WebUI;
 
 public class LoginCMSPage {
@@ -18,4 +19,19 @@ public class LoginCMSPage {
     public void clickLoginButton(){
         WebUI.clickElement(loginButton, 10);
     }
+
+    public CommonPage loginAdminRole() {
+        WebUI.openURL("https://cms.anhtester.com/login");
+        userEnterEmailAndPassword("admin@example.com", "123456");
+        clickLoginButton();
+        return new CommonPage();
+    }
+
+//    public CommonPage loginProjectRole() {
+//        WebUI.openURL(PropertiesHelpers.getValue("CMS_URL")+"login");
+//        WebUI.setText(emailInput, PropertiesHelpers.getValue("CMS_USERNAME"));
+//        WebUI.setText(passwordInput, PropertiesHelpers.getValue("CMS_PASSWORD"));
+//        clickLoginButton();
+//        return new CommonPage();
+//    }
 }

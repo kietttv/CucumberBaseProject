@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import project.com.keywords.WebUI;
 
 public class CategoryCreatePage {
+    By title = By.xpath("/html/body/div[1]/div[2]/div[2]/div[1]/div[1]/h5");
     By nameInput = By.xpath("//*[@id=\"name\"]");
     By categoryParent = By.xpath("/html/body/div[1]/div[2]/div[2]/div[1]/div/div/div/div[2]/form/div[2]/div/div/button");
     By orderingNumberInput = By.xpath("//*[@id=\"order_level\"]");
@@ -13,7 +14,12 @@ public class CategoryCreatePage {
     By metaTitleInput = By.xpath("/html/body/div[1]/div[2]/div[2]/div[1]/div/div/div/div[2]/form/div[7]/div/input");
     By metaDescriptionTextArea = By.xpath("/html/body/div[1]/div[2]/div[2]/div[1]/div/div/div/div[2]/form/div[8]/div/textarea");
     By filteringAttributes = By.xpath("/html/body/div[1]/div[2]/div[2]/div[1]/div/div/div/div[2]/form/div[9]/div/div/button");
-    By saveBtn = By.xpath("/html/body/div[1]/div[2]/div[2]/div[1]/div/div/div/div[2]/form/div[10]/button");
+    By saveBtn = By.xpath("//button[normalize-space()='Save']");
+    By messageAlert = By.xpath("//span[@data-notify='message']");
+
+    public String getTitle(){
+        return WebUI.getElementText(title);
+    }
 
     public void setName(String nameValue) {
         WebUI.setText(nameInput, nameValue);

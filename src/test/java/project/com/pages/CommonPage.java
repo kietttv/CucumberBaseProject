@@ -28,10 +28,10 @@ public class CommonPage {
         return new CategoryPage();
     }
 
-    public void login(){
-        WebUI.openURL("https://cms.anhtester.com/login");
-        LoginCMSPage loginCMSPage = new LoginCMSPage();
-        loginCMSPage.userEnterEmailAndPassword("admin@example.com", "123456");
-        loginCMSPage.clickLoginButton();
-    }
+//    public void login(){
+//        WebUI.openURL("https://cms.anhtester.com/login");
+//        LoginCMSPage loginCMSPage = new LoginCMSPage();
+//        loginCMSPage.userEnterEmailAndPassword("admin@example.com", "123456");
+//        loginCMSPage.clickLoginButton();
+//    }
 }
