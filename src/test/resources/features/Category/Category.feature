@@ -33,5 +33,5 @@ Feature: Manage Category
     And click the save button
     Then the message <message> displays
     Examples:
-      | categoryName    | message                                  |
-      | "Test category" | "Category has been updated successfully" |
+      | categoryName    | message                                |
+      | "Test category" | Category has been updated successfully |

@@ -1650,3 +1650,220 @@
 [INFO] 30-07-2024 11:39:06 [main] [LogUtils] - Update the Category existing
 [INFO] 30-07-2024 11:39:07 [main] [LogUtils] - Update the Category existing
 [INFO] 30-07-2024 11:39:08 [main] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:51:44 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:46 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b864bb147c247325c7630403755a2484)
+[INFO] 30-07-2024 11:51:47 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:51:49 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:51 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:51 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:51 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:51 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:51 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:51 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:51 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:52 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:51:53 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (7a287fd81d94a000775df3e612980aff)
+[INFO] 30-07-2024 11:51:54 [main] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:51:56 [main] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:37 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:37 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:52:37 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:37 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:37 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:37 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:37 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:40 [TestNG-PoolService-7] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (cba5eddbceab4b6d9eea1678356261a7)
+[INFO] 30-07-2024 11:52:40 [TestNG-PoolService-6] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (c2b5c29d574106adec1f46092d2fec6a)
+[INFO] 30-07-2024 11:52:40 [TestNG-PoolService-4] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (50112c42af62550bea94dfec25b08566)
+[INFO] 30-07-2024 11:52:40 [TestNG-PoolService-2] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (f9901e2a9682bace6e05c576c2ea38cd)
+[INFO] 30-07-2024 11:52:40 [TestNG-PoolService-5] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (cabb64f292165f4e2983fff63c5c306d)
+[INFO] 30-07-2024 11:52:41 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (cd4a3e77c369fbc32702cbb313ae3358)
+[INFO] 30-07-2024 11:52:42 [TestNG-PoolService-5] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:52:42 [TestNG-PoolService-3] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (42849b9c737ccffd8c06bd36317ed3cb)
+[INFO] 30-07-2024 11:52:42 [TestNG-PoolService-7] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:52:42 [TestNG-PoolService-6] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:52:42 [TestNG-PoolService-4] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:52:43 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:52:43 [TestNG-PoolService-3] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:52:44 [TestNG-PoolService-2] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:52:49 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:52:49 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:49 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:50 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:51 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:51 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:52 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:53 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:53 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:53 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:52:53 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:54 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:55 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:55 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:55 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:56 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:57 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:57 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:57 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:57 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:57 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:57 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:57 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:57 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:58 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:52:59 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:53:00 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:53:00 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:53:00 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:53:01 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:53:02 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:05 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:05 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:54:05 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:05 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:05 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:05 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:05 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:08 [TestNG-PoolService-4] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (f3f5f7b7fc4e284e0d3b69f72d624c16)
+[INFO] 30-07-2024 11:54:08 [TestNG-PoolService-7] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (0e0fe89637a34f2c08103c5bebd752d2)
+[INFO] 30-07-2024 11:54:08 [TestNG-PoolService-2] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (f574f5cd7c06535cd8d8aca2d33356d8)
+[INFO] 30-07-2024 11:54:08 [TestNG-PoolService-3] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (98b4ae6ade7b53c2c6bf2efa76d0b195)
+[INFO] 30-07-2024 11:54:08 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (08bb6392eea5b6f89290880135431652)
+[INFO] 30-07-2024 11:54:08 [TestNG-PoolService-5] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (7af2c07090568321e93c6e40a454b138)
+[INFO] 30-07-2024 11:54:08 [TestNG-PoolService-6] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b8f25148c7938b3faa8c41cafefe2ebe)
+[INFO] 30-07-2024 11:54:09 [TestNG-PoolService-1] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:54:09 [TestNG-PoolService-5] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:54:09 [TestNG-PoolService-2] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:54:10 [TestNG-PoolService-4] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:54:10 [TestNG-PoolService-7] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:54:10 [TestNG-PoolService-3] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:54:10 [TestNG-PoolService-2] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 11:54:10 [TestNG-PoolService-6] [LogUtils] - Open URL: https://cms.anhtester.com/login
+[INFO] 30-07-2024 11:54:10 [TestNG-PoolService-5] [LogUtils] - Javascript in NOT Ready!
+[INFO] 30-07-2024 11:54:16 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:54:16 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:16 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:18 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:18 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:18 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:19 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:19 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:54:20 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:20 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:21 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:21 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:54:21 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:22 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:22 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:22 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:22 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:22 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:22 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:22 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:22 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:22 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:23 [TestNG-PoolService-1] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:24 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:25 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:25 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:25 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:25 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:25 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:25 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:25 [TestNG-PoolService-3] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:25 [TestNG-PoolService-7] [LogUtils] - Update the Category existing
+[INFO] 30-07-2024 11:54:26 [TestNG-PoolService-5] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:26 [TestNG-PoolService-6] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:26 [TestNG-PoolService-2] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:28 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:31 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:31 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:31 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:31 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:31 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:31 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:31 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:32 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:32 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:32 [TestNG-PoolService-4] [LogUtils] - Add new category
+[INFO] 30-07-2024 11:54:33 [TestNG-PoolService-4] [LogUtils] - Add new category
